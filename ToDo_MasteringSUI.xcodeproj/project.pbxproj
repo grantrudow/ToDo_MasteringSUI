@@ -16,6 +16,7 @@
 		607E8DCD23EC4157009BB858 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607E8DCB23EC4157009BB858 /* LaunchScreen.storyboard */; };
 		607E8DD823EC4157009BB858 /* ToDo_MasteringSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607E8DD723EC4157009BB858 /* ToDo_MasteringSUITests.swift */; };
 		607E8DE323EC4157009BB858 /* ToDo_MasteringSUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607E8DE223EC4157009BB858 /* ToDo_MasteringSUIUITests.swift */; };
+		609B1DBF23F2350E00210C66 /* TasksDone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609B1DBE23F2350E00210C66 /* TasksDone.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		607E8DDE23EC4157009BB858 /* ToDo_MasteringSUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToDo_MasteringSUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607E8DE223EC4157009BB858 /* ToDo_MasteringSUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo_MasteringSUIUITests.swift; sourceTree = "<group>"; };
 		607E8DE423EC4157009BB858 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		609B1DBE23F2350E00210C66 /* TasksDone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksDone.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				607E8DBD23EC4154009BB858 /* AppDelegate.swift */,
 				607E8DBF23EC4154009BB858 /* SceneDelegate.swift */,
 				607E8DC423EC4154009BB858 /* ContentView.swift */,
+				609B1DBE23F2350E00210C66 /* TasksDone.swift */,
 				607E8DC623EC4157009BB858 /* Assets.xcassets */,
 				607E8DCB23EC4157009BB858 /* LaunchScreen.storyboard */,
 				607E8DCE23EC4157009BB858 /* Info.plist */,
@@ -272,6 +275,7 @@
 			files = (
 				607E8DC323EC4154009BB858 /* ToDo_MasteringSUI.xcdatamodeld in Sources */,
 				607E8DBE23EC4154009BB858 /* AppDelegate.swift in Sources */,
+				609B1DBF23F2350E00210C66 /* TasksDone.swift in Sources */,
 				607E8DC523EC4154009BB858 /* ContentView.swift in Sources */,
 				607E8DC023EC4154009BB858 /* SceneDelegate.swift in Sources */,
 			);
